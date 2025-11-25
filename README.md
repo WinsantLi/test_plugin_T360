@@ -1,4 +1,4 @@
-[Установить плагин](https://360.topomatic.ru?extensionInstallPath=https%3A%2F%2Ftopomatic-code.github.io%2Fru.topomatic.dxf%2F)
+[Установить плагин](https://github.com/WinsantLi/test_plugin_T360.git)
 
 # Установка зависимостей
 
