@@ -1,5 +1,5 @@
 {
-  "name": "robur-intercept-ts",
+  "name": "empty_plugin",
   "version": "1.0.0",
-  "description": "TypeScript version of RoburIntercept",
+  "description": "Пробный плагин",
 }
